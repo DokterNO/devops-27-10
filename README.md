@@ -3,7 +3,7 @@
 
 ## Create a scaffold
 
-'requirements.txt': packages
-'Makefile': Cookbook runs commands
-'hello.py': Code
-'test_hello.py': Test Code
+`requirements.txt`: packages
+`Makefile`: Cookbook runs commands
+`hello.py`: Code
+`test_hello.py`: Test Code
